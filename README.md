@@ -27,29 +27,6 @@ Here’s a quick overview of my GitHub activity:
 
 ---
 
-### 🎯 Skills Progress
-Here’s how I rate my skills:
-
-**Python**  
-![Python Progress](https://progress-bar.dev/85/?title=Python)
-
-**JavaScript**  
-![JavaScript Progress](https://progress-bar.dev/80/?title=JavaScript)
-
-**C++**  
-![C++ Progress](https://progress-bar.dev/75/?title=C++)
-
-**React**  
-![React Progress](https://progress-bar.dev/70/?title=React)
-
-**Next.js**  
-![Next.js Progress](https://progress-bar.dev/65/?title=Next.js)
-
-**SQL**  
-![SQL Progress](https://progress-bar.dev/80/?title=SQL)
-
----
-
 ### 🌟 Fun Fact
 When I’m not coding, I’m exploring the intersection of creativity and logic, staying ahead of tech trends, and challenging myself to think outside the box.
 
@@ -64,4 +41,4 @@ Feel free to reach out to me for collaborations or just a chat:
 
 ---
 
-⭐️ From Inshal Munaf(https://github.com/[YourUsername])
+⭐️ From Inshal Munaf(https://github.com/Inshalmunaf)
